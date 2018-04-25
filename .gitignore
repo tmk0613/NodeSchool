@@ -1,1 +1,3 @@
 Git-it/Git-it-Win-ia32
+*/node_modules
+*/package-lock.json
